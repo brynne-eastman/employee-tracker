@@ -1,7 +1,7 @@
 # employee-tracker
 
 ## Table of Contents
-* [Decription](#description)
+* [Description](#description)
 * [User Story](#userStory)
 * [Acceptance Criteria](#acceptanceCriteria)
 * [Installation](#installation)
