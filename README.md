@@ -42,7 +42,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ### Installation
 - Clone repository
-- Install inquirer: npm install
+- Install inquirer: npm i inquirer
+- Install console.table: npm i console.table
 - Install MySQL: mysql -u root -p
 
 ### Screenshots
